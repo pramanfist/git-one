@@ -1,4 +1,5 @@
 body{
     background-color: salmon;
     padding: 30px;
+    display: block;
 }
